@@ -1,0 +1,7 @@
+Este en un blog de las notas del curso de git
+
+git init 	: inicialisa git
+git add .	:añade toda la carpeta
+git add <archivo>	:añade un archivo especifico
+
+
